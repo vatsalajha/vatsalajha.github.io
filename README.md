@@ -38,7 +38,7 @@ I've worn many hats, but my favorite is the debugging wizard hat!
 - Hiking or planning to hike somewhere
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/vatsala-jha)
+- [LinkedIn](https://www.linkedin.com/in/vatsala-jha-978443166/)
 - [GitHub](https://github.com/vatsalajha)
 - [Email](mailto:jha.vatsala@rutgers.edu)
 
